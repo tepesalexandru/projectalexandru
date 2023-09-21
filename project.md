@@ -3,7 +3,7 @@ Project Alexandru is an algorithm, or a set of instructions fine-tuned for mysel
 
 Project Alexandru is a set of supplements, diet, exercise and other habits that allow me to be the best version of myself.
 
-## Biomarkers
+## Biomarkers (August 2023)
 - Age: 21 years
 - Height: 173.0 cm
 - Weight: 75.0 kg ❗
