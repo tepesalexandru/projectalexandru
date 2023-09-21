@@ -3,6 +3,26 @@ Project Alexandru is an algorithm, or a set of instructions fine-tuned for mysel
 
 Project Alexandru is a set of supplements, diet, exercise and other habits that allow me to be the best version of myself.
 
+## Biomarkers
+- Age: 21 years
+- Height: 173.0 cm
+- Weight: 75.0 kg ❗
+- BMI: 25.1 ❗
+
+### Blood Work
+- Blood Group: AB IV
+- Rh: Positive
+- Cholesterol: 222.97 ❗
+- HDL: 47.98 ❗
+- LDL: 135.54 ❗
+- Glucose: 86.27
+- GGT: 22.11
+- Magnesium: 2.21
+- Calcium: 10.10
+- TGP: 56.0 ❗
+- Triglicerides 88.98
+- VSH: 3
+
 ## Protocol:
 ### Supplements
 In the morning:
@@ -26,6 +46,11 @@ Intensive exercise has been shown to always give me a better mood and increased 
 
 Best high intensity sports:
 - Swimming (2-3 times a week)
+
+### Intermittent Fasting
+Intermittent fasting has brought me a lot of benefits, from losing weight to higher levels of energy.
+I fast for 16 hours a day and eat in a 8 hour window.
+I can easily achieve this by simply skipping dinner, which I do by not eating after lunch.
 
 ### Other
 Guided Meditation has made me more aware of my surroundings, of the thoughts that I have or just simply to relax. I do the following guided meditations:
